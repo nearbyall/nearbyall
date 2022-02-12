@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nearbyall</h1>
-<h3 align="center">Novice backend-end developer from Belarus</h3>
+<h3 align="center">Novice software developer from Belarus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nearbyall&label=Profile%20views&color=0e75b6&style=flat" alt="nearbyall" /> </p>
 
