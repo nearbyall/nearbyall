@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/владислав-мельников-b5a0a722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="владислав-мельников-b5a0a722a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17247981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17247981" height="30" width="40" /></a>
-<a href="https://instagram.com/nearbyall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nearbyall" height="30" width="40" /></a>
+<a href="https://instagram.com/nearby_all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nearbyall" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
