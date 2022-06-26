@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm nearbyall
+Hi 👋, I'm nearbyall. 
 Java developer from Belarus
 
 
