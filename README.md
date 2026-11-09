@@ -1,26 +1,21 @@
 <h1 align="center">Hi, I'm Uladzislau 👋</h1>
 
 <p align="center">
-  Senior Software Engineer at <b>Babich Technologies</b> · Minsk, Belarus<br>
-  <a href="https://zhekababich.website">zhekababich.website</a> · <a href="https://t.me/babichsavebot">@babichsavebot</a>
+  Senior Software Engineer · Minsk, Belarus
 </p>
 
 <p align="center">
   <a href="README.ru.md">Русский</a> | <b>English</b>
 </p>
 
-I started out as a Java backend developer working with Spring, REST APIs and databases. These days I also build Python
-services, Telegram bots and LLM pipelines, plus small tools for Linux and Claude Code.
+My path as a programmer started with university labs and the Java internship program at EPAM. Today I'm a Senior
+Software Engineer and just as strong a system administrator: I build backends, AI tools and Telegram bots for business,
+and I set up and run the Linux servers they live on.
 
-**Jump to:** [Projects](#projects) · [Developer tools](#developer-tools) · [Java backend](#java-backend) ·
+This GitHub is my library: study projects, useful tools I decided to share and keep online, and pet projects.
+
+**Jump to:** [Developer tools](#developer-tools) · [Projects](#projects) ·
 [Courses and internships](#courses-and-internships) · [University](#university) · [Tech stack](#tech-stack)
-
-## Projects
-
-| Repository | What it is | Stack |
-| --- | --- | --- |
-| [babich-save-bot](https://github.com/nearbyall/babich-save-bot) | Telegram bot [@babichsavebot](https://t.me/babichsavebot): downloads TikTok videos, Instagram Reels and YouTube Shorts from a link, finds the track with Shazam, extracts the audio and makes video stickers. Free, with no ads | Python · Telegram Bot API |
-| [zatravka](https://github.com/nearbyall/zatravka) | LLM pipeline that mines Reddit, X and Threads for non-obvious product ideas and sorts them by market, sphere and type. Has a web UI and scheduled runs | Python · LLM · Docker |
 
 ## Developer tools
 
@@ -29,16 +24,12 @@ services, Telegram bots and LLM pipelines, plus small tools for Linux and Claude
 | [sysmon](https://github.com/nearbyall/sysmon) | Live system monitor for the Linux console: CPU, memory, network, disks and processes on one screen. Single file, no dependencies, works over SSH | Python · Linux |
 | [claude-statusline](https://github.com/nearbyall/claude-statusline) | Compact status line for Claude Code: model, git branch, context usage, rate limits and session time | JavaScript · Node.js |
 
-## Java backend
+## Projects
 
 | Repository | What it is | Stack |
 | --- | --- | --- |
-| [nelve-backend](https://github.com/nearbyall/nelve-backend) | Backend for a skills and community platform: users, skills, groups, events, messages and ratings, with files stored in Dropbox | Java 17 · Spring Boot 3 · Spring Security · JPA · PostgreSQL · Flyway · OpenAPI |
-| [multi-module-ses-spring-gradle](https://github.com/nearbyall/multi-module-ses-spring-gradle) | Multi-module app for scheduled email sending. Tasks are spread across workers through RabbitMQ, and Redis keeps a task from running twice | Java · Spring · Gradle · RabbitMQ · Redis |
-| [zheka-babich](https://github.com/nearbyall/zheka-babich) | Web app built with Vaadin on Spring Boot | Java · Vaadin · Spring Boot · Docker |
-| [javamail-email-distributor](https://github.com/nearbyall/javamail-email-distributor) | Thread-safe email manager built on JavaMail | Java · JavaMail |
-| [admin-panel-spring-security-thymeleaf](https://github.com/nearbyall/admin-panel-spring-security-thymeleaf) | Admin panel example using Spring Boot, Spring Security and Thymeleaf | Java · Spring Security · Thymeleaf |
-| [webapp-for-cicd-demo](https://github.com/nearbyall/webapp-for-cicd-demo) | Minimal web app for a CI/CD demo | Java |
+| [babich-save-bot](https://github.com/nearbyall/babich-save-bot) | Telegram bot [@babichsavebot](https://t.me/babichsavebot): downloads TikTok videos, Instagram Reels and YouTube Shorts from a link, finds the track with Shazam, extracts the audio and makes video stickers. Free, with no ads | Python · Telegram Bot API |
+| [zatravka](https://github.com/nearbyall/zatravka) | LLM pipeline that mines Reddit, X and Threads for non-obvious product ideas and sorts them by market, sphere and type. Has a web UI and scheduled runs | Python · LLM · Docker |
 
 ## Courses and internships
 
@@ -46,6 +37,7 @@ services, Telegram bots and LLM pipelines, plus small tools for Linux and Claude
 
 | Repository | What it is |
 | --- | --- |
+| [Introduction_To_Java_Online](https://github.com/nearbyall/Introduction_To_Java_Online) | Where it all started at EPAM: solved tasks from the Introduction to Java Online course |
 | [epamtc-final-project-online-shop](https://github.com/nearbyall/epamtc-final-project-online-shop) | Final project, an online shop: sign-up and sign-in with "remember me", password recovery by email, a catalog with categories and pagination, a cart, orders and switchable languages |
 | [multithreading-task-jwd](https://github.com/nearbyall/multithreading-task-jwd) | Multithreaded application using shared resources |
 | [xml-task-jwd](https://github.com/nearbyall/xml-task-jwd) | XML task |
@@ -67,7 +59,6 @@ services, Telegram bots and LLM pipelines, plus small tools for Linux and Claude
 | [rpa-internship-2023](https://github.com/nearbyall/rpa-internship-2023) | Internship task: a service that loads exchange rates from the National Bank of Belarus API and calculates the monthly average rate |
 | [aston-first-task-arraylist](https://github.com/nearbyall/aston-first-task-arraylist) | First homework of the Aston Java intensive: an ArrayList task |
 | [goodini-test-task](https://github.com/nearbyall/goodini-test-task) | Test assignment: code review and forensics |
-| [Introduction_To_Java_Online](https://github.com/nearbyall/Introduction_To_Java_Online) | Solved tasks from an introductory online Java course |
 
 ## University
 
