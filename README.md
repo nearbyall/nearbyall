@@ -9,8 +9,7 @@
 </p>
 
 My path as a programmer started with university labs and the Java internship program at EPAM. Today I'm a Senior
-Software Engineer and just as strong a system administrator: I build backends, AI tools and Telegram bots for business,
-and I set up and run the Linux servers they live on.
+Software Engineer and just as strong a system administrator.
 
 This GitHub is my library: study projects, useful tools I decided to share and keep online, and pet projects.
 
